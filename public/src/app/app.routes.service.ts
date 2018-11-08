@@ -10,17 +10,15 @@ import {FormArtigoComponent} from "./views/form-artigo/form-artigo.component";
 
 
 const routes: Route[] = [
-    {path: '', pathMatch: 'full', redirectTo: 'home'},
+    {path: '', pathMatch: 'full', redirectTo: 'pesquisa'},
     {
-        path: 'map', children: [
-        {path: 'direto/:grupo', component: ArtigoComponent},
-        {path: 'associativo/:grupo/:politica', component: ArtigoComponent},
-        {path: 'associativo-conjunto/:grupo/:politica/:vias', component: ArtigoComponent},
+        path: 'pesquisa', children: [
+        {path: '', component: SearchComponent},
+        {path: 'detalhes/:termo', component: ArtigoComponent},
     ]
     },
-    {path: 'home', component: SearchComponent},
     {path: 'sobre', component: SobreComponent},
-    {path: 'artigo', component: FormArtigoComponent},
+    {path: 'importar-artigo', component: FormArtigoComponent},
     {
         path: 'dashboards', children: [
         {path: 'v1', component: Dashboard1Component},

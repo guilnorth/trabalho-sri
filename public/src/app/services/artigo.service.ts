@@ -9,9 +9,13 @@ export class ArtigoService {
   constructor(private http: HttpClient) { }
 
   create(artigo:Artigo){
-    console.log('888',artigo)
     return this.http.post(`${BASE_API}/artigo/create`,
         ({artigo:artigo}))
+  }
+
+  search(consulta){
+    return this.http.post(`${BASE_API}/artigo/search`,
+        ({consulta:consulta}))
   }
 
 }

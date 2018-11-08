@@ -7,7 +7,7 @@ const Utils = require('../utils/utils');
 
 
 function generateTermFrequency(resumo) {
-     let array = normalizeText(resumo.toLowerCase()).split(" "), countArray = {}, objectReturn = [];
+     let array = normalizeText(resumo.toLowerCase()).split(/\s+/), countArray = {}, objectReturn = [];
       array.forEach(function(i) {
         countArray[i] = (countArray[i]||0) + 1;
       });
@@ -18,6 +18,7 @@ function generateTermFrequency(resumo) {
     }
      return objectReturn;
 }
+
 function dictionaryAddTerms(termFrequency) {
     let objectReturn = Dictionary || [];
     termFrequency.forEach(function(item) {
@@ -55,8 +56,19 @@ function normalizeText(string) {
     return string.replace(/\r?\n|\r/g,' ');
 }
 
+/** Calculo Similaridade **/
+function normalizeSearchUser(consulta) {
+    let array = normalizeText(consulta.toLowerCase()).split(/\s+/);
+console.log(array)
+    array.forEach(function(item,key) {
+        if(stopWords.indexOf(item) !== -1)
+            array.splice(key, 1);
+    });
+    return array;
+}
+
 artigoModule.create = async (req, res) =>{
-  let path = process.cwd()+'/src/resources/armazenamento/';
+    let path = process.cwd()+'/src/resources/armazenamento/';
     const { artigo } = req.body;
 
     let termFrequency = generateTermFrequency(artigo.resumo);
@@ -71,6 +83,21 @@ artigoModule.create = async (req, res) =>{
       ]);
 
       return res.send({ok:'OK'});
+    } catch (err) {
+        console.log(err);
+        return res.status(400).send({ error: 'Registration failed' });
+    }
+};
+
+artigoModule.search = async (req, res) => {
+    let { consulta } = req.body;
+
+    consulta = normalizeSearchUser(consulta);
+    console.log(consulta);
+
+    try {
+
+        return res.send(Documents);
     } catch (err) {
         console.log(err);
         return res.status(400).send({ error: 'Registration failed' });

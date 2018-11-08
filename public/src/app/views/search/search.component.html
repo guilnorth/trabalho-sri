@@ -13,19 +13,48 @@
 </div>
 
 <!--Grid row-->
-<div class="row wow fadeIn mt-5">
+<div class="row wow fadeIn mt-5 border border-light p-5 card col-sm-12">
 
   <!--Grid column-->
-  <div class="col-md-12 mb-12 card">
+  <form class="" (ngSubmit)="buscar(busca.value)">
 
-    <div class="col-md-12 mb-4">
+    <div class="text-center">
+      <p class="h4 mb-4">Pesquisa</p>
 
-      <br>
-      <form class="form-inline mr-auto">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-        <button class="btn blue-gradient btn-rounded btn-sm my-0" type="submit">Search</button>
-      </form>
+      <p>Pesquise na nossa base de dados de artigos relacionados a Inteligencia Artificial e Redes Neurais.</p>
 
+      <p>
+        <a href="" target="_blank">Termos em destaque</a>
+      </p>
     </div>
+
+    <input type="text" required minlength="3" id="busca" class="form-control mb-4"
+           placeholder="Sua busca..." #busca>
+
+    <button class="btn btn-info btn-block" type="submit">
+      <i class="fa fa-search " aria-hidden="true"></i> Pesquisar</button>
+
+  </form>
+  <hr>
+  <br/>
+
+  <div class="text-left left list-group-flush" *ngFor="let item of listArtigos; let i = index">
+    <div class="card">
+      <div class="list-group-item" style="">
+        <p *ngIf="item.titulo">
+          <i class="fa fa-file-text " aria-hidden="true"></i>
+          {{item.titulo}}
+        </p>
+        <p><i class="fa fa-user-circle " aria-hidden="true"></i>
+          <strong *ngIf="item.autor">{{item.autor}}</strong></p>
+        <a class="btn btn-unique">Ver Artigo</a>
+      </div>
+    </div>
+    <br>
   </div>
+
+
+
+
+
 </div>

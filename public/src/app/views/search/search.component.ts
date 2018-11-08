@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {ArtigoService} from "../../services/artigo.service";
 
 @Component({
   selector: 'app-search',
@@ -7,9 +8,20 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SearchComponent implements OnInit {
 
-  constructor() { }
+  public listArtigos:any = [];
+  constructor(private artigoService:ArtigoService ) { }
 
   ngOnInit() {
   }
 
+  buscar(busca){
+    if(busca)
+      this.artigoService.search(busca).subscribe((res)=>{
+        if(res) {
+          console.log(res);
+          this.listArtigos = res;
+        }
+
+      })
+  }
 }
