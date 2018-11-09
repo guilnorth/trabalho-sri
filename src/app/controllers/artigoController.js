@@ -24,9 +24,12 @@ function dictionaryAddTerms(termFrequency) {
     termFrequency.forEach(function(item) {
         let indexTerm = Dictionary.findIndex(x => x.termo === item.termo);
         if( indexTerm === -1)
-            objectReturn.push({termo:item.termo,quantidade:item.quantidade});
-        else
+            objectReturn.push({termo:item.termo,quantidade:item.quantidade,docs:1});
+        else{
             objectReturn[indexTerm].quantidade++;
+            objectReturn[indexTerm].docs++;
+        }
+
     });
     return objectReturn;
 }
@@ -38,14 +41,16 @@ function documentsAddReg(countTermFrequency,artigo) {
             docId:Documents.length,
             titulo:artigo.titulo,
             autor:artigo.autor,
-            totalTermosSignificativos:countTermFrequency
+            totalTermosSignificativos:countTermFrequency,
+            link:artigo.link,
         });
     else
         objectReturn[indexDoc] = {
             docId: objectReturn[indexDoc].docId,
             titulo: artigo.titulo,
             autor: artigo.autor,
-            totalTermosSignificativos: countTermFrequency
+            totalTermosSignificativos: countTermFrequency,
+            link: artigo.link
         };
     return objectReturn;
 }
@@ -59,7 +64,11 @@ function normalizeText(string) {
 /** Calculo Similaridade **/
 function normalizeSearchUser(consulta) {
     let array = normalizeText(consulta.toLowerCase()).split(/\s+/);
-console.log(array)
+
+    /** Removendo repetições **/
+    array = [...new Set(array)];
+
+    console.log(array)
     array.forEach(function(item,key) {
         if(stopWords.indexOf(item) !== -1)
             array.splice(key, 1);
@@ -89,11 +98,55 @@ artigoModule.create = async (req, res) =>{
     }
 };
 
+/**
+ * IDF
+ * Para cada palavra pesquisada
+ * log(30/NumeroDeDocumentosContemPalavra) base 2 (Dicionario) alterar inserção
+ *
+ **/
+function calcularIDF(palavrasConsulta){
+    let indexTerm, idfTermosPesquisa = [];
+    palavrasConsulta.forEach((item,key)=>{
+        indexTerm = Dictionary.findIndex(x => x.termo === item);
+        idfTermosPesquisa[key] = (indexTerm !== -1 && Dictionary[indexTerm].docs)
+            ? Math.log2(Documents.length/Dictionary[indexTerm].docs)
+            :0
+    });
+
+    return idfTermosPesquisa;
+}
+
+/**
+ * TF
+ * para cada palavra por documento matriz[termo][documento]
+ * 1 + log(frequenciaTermoNoDocumento)
+ **/
+function calcularTF(palavrasConsulta,frequenciaTermoDocumento){
+    //let matrizTF[palavrasConsulta.length][Documents.length];
+    palavrasConsulta.forEach((item,key)=>{
+        palavrasConsulta.forEach((item,key)=>{
+
+        })
+    })
+    return (frequenciaTermoDocumento !== 0)
+        ? 1 + Math.log2(frequenciaTermoDocumento)
+        :0;
+}
+
+
+function calcularTF_IDF(frequenciaTermoDocumento){
+    //tf * Idf
+}
+
 artigoModule.search = async (req, res) => {
     let { consulta } = req.body;
 
     consulta = normalizeSearchUser(consulta);
-    console.log(consulta);
+
+    console.log(calcularIDF(consulta));
+
+
+
 
     try {
 

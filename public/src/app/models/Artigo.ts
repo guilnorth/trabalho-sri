@@ -4,4 +4,5 @@ export class Artigo {
     filiacaoAcademica:string = "";
     resumo:string = "";
     palavrasChave:string = "";
+    link:string = "";
 }

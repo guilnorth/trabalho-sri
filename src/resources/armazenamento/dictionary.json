@@ -69,7 +69,8 @@
     },
     {
         "termo": "vida",
-        "quantidade": 3
+        "quantidade": 3,
+        "docs": 3
     },
     {
         "termo": "produção",
@@ -110,5 +111,37 @@
     {
         "termo": "melhorar",
         "quantidade": 3
+    },
+    {
+        "termo": "teste",
+        "quantidade": 1
+    },
+    {
+        "termo": "arquivo",
+        "quantidade": 1
+    },
+    {
+        "termo": "",
+        "quantidade": 7,
+        "docs": 3
+    },
+    {
+        "termo": "rerererer",
+        "quantidade": 5
+    },
+    {
+        "termo": "tste",
+        "quantidade": 5,
+        "docs": 5
+    },
+    {
+        "termo": "sdf",
+        "quantidade": 3,
+        "docs": 3
+    },
+    {
+        "termo": "sdff",
+        "quantidade": 3,
+        "docs": 3
     }
 ]

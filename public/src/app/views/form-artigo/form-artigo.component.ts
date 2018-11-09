@@ -17,6 +17,7 @@ export class FormArtigoComponent implements OnInit {
   create(){
     this.artigoService.create(this.artigo).subscribe((res)=>{
       console.log(res);
+      alert('Cadastrado com sucesso!');
     })
   }
 
