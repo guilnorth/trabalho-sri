@@ -18,4 +18,8 @@ export class ArtigoService {
         ({consulta:consulta}))
   }
 
+  suggest(){
+    return this.http.get(`${BASE_API}/artigo/suggest`)
+  }
+
 }
