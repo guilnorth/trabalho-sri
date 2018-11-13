@@ -1,0 +1,8 @@
+{
+    "titulo": "Cooperação entre redes neurais artificiais e técnicas 'clássicas' para previsão de demanda de uma série de vendas de cerveja na Austrália ",
+    "autor": "Guilherme Marques Calôba",
+    "filiacaoAcademica": "EP/COPPE, Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ ",
+    "resumo": "O principal objetivo deste trabalho é avaliar a complementação do uso de técnicas de previsão de vendas com Redes Neurais Artificiais. Como aplicação, foi analisada a demanda industrial no setor de cerveja da Austrália. A maioria dos modelos de previsão atuam de forma isolada, ou seja, tratando problemas por enfoques que se excluem. A sugestão deste trabalho é utilizar estes métodos de forma cooperativa, buscando alcançar melhores resultados que aqueles obtidos individualmente. O trabalho inicia-se com considerações sobre previsões de séries temporais, caracterização breve sobre redes neurais e outros métodos de previsão. A seguir, o estudo de caso: uma série histórica de vendas de cerveja na Austrália. Encerra-se com uma conclusão e recomendações, e lista de referências bibliográficas.",
+    "palavrasChave": "previsão de demanda, redes neurais artificiais, cooperação.",
+    "link": "http://www.scielo.br/scielo.php?pid=S0101-74382002000300004&script=sci_arttext&tlng=es"
+}

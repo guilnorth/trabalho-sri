@@ -1,0 +1,8 @@
+{
+    "titulo": "Redes neurais e sua aplicação em sistemas de recuperação de informação",
+    "autor": "Edberto Ferneda",
+    "filiacaoAcademica": "Documentação da Faculdade de Filosofia Ciências e Letras de Ribeirão Preto – USP",
+    "resumo": "Redes neurais constituem um campo da ciência da\ncomputação ligado à inteligência artificial, buscando\nimplementar modelos matemáticos que se assemelhem às\nestruturas neurais biológicas. Nesse sentido, apresentam\ncapacidade de adaptar os seus parâmetros como resultado\nda interação com o meio externo, melhorando gradativamente\no seu desempenho na solução de um determinado problema.\nA utilização de redes neurais em sistemas computacionais\nde recuperação de informação permite atribuir um caráter\ndinâmico a tais sistemas, dado que as representações dos\ndocumentos podem ser reavaliadas e alteradas de acordo\ncom a especificação de relevância atribuída pelos usuários\naos documentos recuperados. O presente trabalho apresenta\nas principais iniciativas de se aplicarem os conceitos de\nredes neurais aos sistemas de recuperação de informação e\navalia sua aplicabilidade em grandes bases documentais,\ncomo é o caso da Web",
+    "palavrasChave": "Redes neurais. Recuperação de informação. Sistemas adaptativos.",
+    "link": "http://www.scielo.br/pdf/%0D/ci/v35n1/v35n1a03.pdf"
+}

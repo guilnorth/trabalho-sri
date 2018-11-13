@@ -1,0 +1,8 @@
+{
+    "titulo": "Classificação automatica e analise de dados por redes neurais auto-organizaveis",
+    "autor": "Costa, Jose Alfredo Ferreira",
+    "filiacaoAcademica": "FEEC - Tese e Dissertação",
+    "resumo": "Esta tese apresenta extensões ao modelo básico de rede neural auto-organizável, a rede de Kohonen (SOM), viabilizando seu uso como ferramenta de análise de agrupamentos. O SOM define, via treinamento não supervisionado, um mapeamento de um espaço p-dimensional contínuo para um conjunto discreto de vetores referência, ou neurônios, geralmente dispostos na forma de uma matriz. Cada neurônio tem a mesma dimensão do espaço de entrada, p, e o objetivo principal do treinamento é reduzir imensionalidade ao mesmo tempo em que tenta-se preservar, ao máximo, a topologia do espaço de entrada. O algoritmo SL-SOM (Self-Labeling SOM) foi desenvolvido com o objetivo de particionar e rotular automaticamente um SOM treinado, baseando-se no gradiente dos p componentes, cuja informação é apresentada na Umatrix. ",
+    "palavrasChave": "Sistemas de reconhecimento de padrões Análise por agrupamento Redes neurais (Computação) Inteligência artificial",
+    "link": "http://repositorio.unicamp.br/bitstream/REPOSIP/260981/1/Costa_JoseAlfredoFerreira_D.pdf"
+}

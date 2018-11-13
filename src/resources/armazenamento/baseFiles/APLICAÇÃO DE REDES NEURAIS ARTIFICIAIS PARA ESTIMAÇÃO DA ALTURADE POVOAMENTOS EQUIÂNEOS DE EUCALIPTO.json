@@ -1,0 +1,8 @@
+{
+    "titulo": "APLICAÇÃO DE REDES NEURAIS ARTIFICIAIS PARA ESTIMAÇÃO DA ALTURADE POVOAMENTOS EQUIÂNEOS DE EUCALIPTO",
+    "autor": "Mayra Luiza Marques da Silva Binoti",
+    "filiacaoAcademica": null,
+    "resumo": "Este trabalho teve como objetivos aumentar a precisão das estimativas de altura de árvores ediminuir a necessidade de aferição da altura em campo, levando à redução dos custos no inventário florestalatravés da construção e validação de um modelo de estimação da altura de árvores em povoamentos de eucaliptocom a utilização de redes neurais artificiais. Os dados utilizados consistiram em três clones, compreendendocerca de 3.000 árvores em 145 parcelas permanentes com área média de 215 m², mensuradas em seis ocasiões(idades). As variáveis utilizadas para estimar a altura total das árvores dividiram-se em quantitativas: idade(meses), diâmetro com casca a 1,30 m de altura a partir da superfície do solo (dap) e altura dominante médiada parcela; e qualitativa: tipo de solo com as respectivas classes. Para validação e aplicação da metodologiaproposta, foram consideradas duas situações: (a) quando há a introdução de um novo material genético e nãoexistem informações sobre a relação hipsométrica deste; (b) quando já se conhece a tendência de crescimentoem altura dos povoamentos implantados, obtida pela existência de medições em parcelas de IFC. Com as metodologiastestadas, obtiveram-se valores de coeficiente de correlação superiores a 0,99. As metodologias mostraram-seeficientes para alcançar os objetivos propostos, garantindo alta precisão das estimativas obtidas através dasredes neurais artificiais",
+    "palavrasChave": "Inventário florestal; Relação hipsométrica; Eucalipto",
+    "link": "http://www.redalyc.org/html/488/48828747007/"
+}

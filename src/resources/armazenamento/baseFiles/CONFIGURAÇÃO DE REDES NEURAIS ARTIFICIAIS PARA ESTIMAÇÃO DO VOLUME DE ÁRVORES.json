@@ -1,0 +1,8 @@
+{
+    "titulo": "CONFIGURAÇÃO DE REDES NEURAIS ARTIFICIAIS PARA ESTIMAÇÃO DO VOLUME DE ÁRVORES",
+    "autor": "Daniel Henrique Breda Binoti",
+    "filiacaoAcademica": " Universidade Federal dos Vales do Jequitinhonha e Mucuri",
+    "resumo": "Objetivou-se nesse trabalho avaliar diferentes configurações do treinamento de Redes\nNeurais Artificiais (RNA) para a estimação do volume de árvores. Como método comparativo,\nrealizou-se a quantificação volumétrica de maneira tradicional utilizando o modelo de\nSchumacher e Hall. Os dados utilizados neste estudo foram provenientes de cubagens de 2.307\nárvores de povoamentos de eucalipto (Eucalyptus grandis x Eucalyptus urophylla). As\nvariáveis utilizadas para treinamento das RNA foram: variáveis numéricas (quantitativas)\nconsideradas foram: idade em meses, diâmetro com casca a 1,30 m de altura (dap) em cm,\naltura total (Ht) em m e volume da árvore (V) em m³. Enquanto que as variáveis categóricas\n(qualitativas) foram: projeto, espaçamento e clone. Para treinamento das RNA utilizou-se o\nsistema NeuroForest. A estimação do volume de árvores por meio de redes neurais artificiais\npode ser feita com diferentes configurações, variando o número de neurônios na camada oculta,\nas funções de ativação, os algoritmos e os parâmetros de treinamento. Redes neurais simples\ncom apenas um neurônio na camada oculta podem ser utilizadas com eficiência para estimação\ndo volume de árvores.",
+    "palavrasChave": "NeuroForest; Schumacher e Hall; eucalipto.",
+    "link": "https://periodicos.ufpel.edu.br/ojs2/index.php/cienciadamadeira/article/view/4067/3211"
+}

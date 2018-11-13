@@ -1,0 +1,8 @@
+{
+    "titulo": "Usando redes neurais artificiais e regressão logística na predição da Hepatite A",
+    "autor": "Alcione Miranda dos Santos",
+    "filiacaoAcademica": "Departamento de Matemática, Universidade Federal do Maranhão ",
+    "resumo": "Este trabalho desenvolve um sistema para predição da soroprevalência da Hepatite A. Para isto, são considerados os modelos de regressão de logística e redes neurais artificiais. O desempenho de tais modelos é medido através da taxa de classificação incorreta em uma amostra do município de Duque de Caxias, Rio de Janeiro, que possui elevada prevalência da doença. Resultados mostram que o modelo neural, aplicado sobre a informação relevante extraída do modelo de regressão logística, apresenta um bom desempenho, alcançando uma eficiência de classificação geral acima de 88%.",
+    "palavrasChave": "Redes Neurais. Regressão Logística. Hepatite A. Sistemas de Apoio ao Diagnóstico Médico.",
+    "link": "https://www.scielosp.org/article/rbepid/2005.v8n2/117-126/pt/"
+}
