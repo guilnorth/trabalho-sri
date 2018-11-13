@@ -1,10 +1,10 @@
 {
-  "name": "trabalho-arquitetura-computadores",
+  "name": "trabalho-sri",
   "version": "5.2.3",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "npm install && ng serve",
+    "start": "npm rebuild node-sass && npm install && ng serve",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",

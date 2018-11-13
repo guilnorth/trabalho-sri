@@ -8,7 +8,7 @@ ________
 **Disponível via GitHub Pages em:**
 
 (em breve)
-- https://guilnorth.github.io/arquitetura-cache
+- https://guilnorth.github.io/
 
 ## Instalação e execução
 
@@ -21,7 +21,7 @@ ________
          $ git clone https://github.com/guilnorth/trabalho-sri
          $ npm start
 
-**Este comando instala as bibliotecas necessárias (npm install) e inicia o servidor local da aplicação Angular (ng serve)**
+**Este comando instala as bibliotecas necessárias (npm install) e inicia o servidor local da aplicação Node(node src/app.js) e faz o build da aplicação Angular (ng build)**
 
 **Após isso, acessar o servidor local iniciado:**
 - http://localhost:3000
