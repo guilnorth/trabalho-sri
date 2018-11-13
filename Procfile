@@ -1,1 +1,1 @@
-web cd public/ npm rebuild node-sass && npm install && ng build --prod && cd .. && npm install && node src/app.js
+web cd public/ && npm rebuild node-sass && npm install && ng build --prod && cd .. && npm install && node src/app.js
