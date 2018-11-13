@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "cd public/ && npm install && ng build --prod && cd .. && npm install && node src/app.js"
   },
-  "engines": { "yarn": "0.28.4" },
+  "engines": { "yarn": "1.6.0" },
   "keywords": [],
   "author": "",
   "license": "ISC",
