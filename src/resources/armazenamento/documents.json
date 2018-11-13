@@ -2,53 +2,92 @@
     {
         "docId": 0,
         "titulo": "UMA ABORDAGEM SOBRE INTELIGÊNCIA ARTIFICIAL E SIMULAÇÃO, COM UMA APLICAÇÃO NA PECUÁRIA DE CORTE NACIONAL",
-        "autor": "gui",
-        "totalTermosSignificativos": 8
+        "autor": "João Miguel",
+        "totalTermosSignificativos": 8,
+        "link": ""
     },
     {
         "docId": 1,
         "titulo": "Aplicação da Inteligência Artificial em Sistemas de Gerenciamento de Conteúdo",
         "autor": "Fernando Chagas Santos, Cedric Luiz de Carvalho",
-        "totalTermosSignificativos": 20
-    },
-    {
-        "docId": 2,
-        "titulo": "teste novo arquivo",
-        "autor": "teste novo arquivo",
-        "totalTermosSignificativos": 2
-    },
-    {
-        "docId": 3,
-        "titulo": "",
-        "autor": "",
-        "totalTermosSignificativos": 1,
+        "totalTermosSignificativos": 20,
         "link": ""
     },
     {
+        "docId": 2,
+        "titulo": "INTELIGÊNCIA ARTIFICAL: Conceitos, Aplicações e Linguagens",
+        "autor": "André Felipe da Costa Alves",
+        "totalTermosSignificativos": 52,
+        "link": "file:///home/guilherme/Downloads/172-INTELIG%C3%8ANCIA-ARTIFICAL-Conceitos-Aplica%C3%A7%C3%B5es-e-Linguagens.pdf"
+    },
+    {
+        "docId": 3,
+        "titulo": "ANNEF – ARTIFICIAL NEURAL NETWORKS FRAMEWORK: UMA SOLUÇÃO SOFTWARE LIVRE PARA O DESENVOLVIMENTO, ENSINO E PESQUISA DE APLICAÇÕES DE INTELIGÊNCIA ARTIFICIAL MULTIPLATAFORMA",
+        "autor": "João Ricardo Bittencourt",
+        "totalTermosSignificativos": 35,
+        "link": "https://www.researchgate.net/profile/Fernando_Osorio2/publication/242210172_ANNeF_-_Artificial_Neural_Networks_Framework_Uma_Solucao_Software_Livre_para_o_Desenvolvimento_Ensino_e_Pesquisa_de_Aplicacoes_de_Inteligencia_Artificial_Multiplataforma/links/548b72680cf214269f1dd5c0/ANNeF-Artificial-Neural-Networks-Framework-Uma-Solucao-Software-Livre-para-o-Desenvolvimento-Ensino-e-Pesquisa-de-Aplicacoes-de-Inteligencia-Artificial-Multiplataforma.pdf"
+    },
+    {
         "docId": 4,
-        "titulo": "titulo1",
-        "autor": "",
-        "totalTermosSignificativos": 2
+        "titulo": "Redes neurais e sua aplicação em sistemas de recuperação de informação",
+        "autor": "Edberto Ferneda",
+        "totalTermosSignificativos": 63,
+        "link": "http://www.scielo.br/pdf/%0D/ci/v35n1/v35n1a03.pdf"
     },
     {
         "docId": 5,
-        "titulo": " teste ",
-        "autor": "teste",
-        "totalTermosSignificativos": 1,
-        "link": "teste.com"
+        "titulo": "Classificação automatica e analise de dados por redes neurais auto-organizaveis",
+        "autor": "Costa, Jose Alfredo Ferreira",
+        "totalTermosSignificativos": 61,
+        "link": "http://repositorio.unicamp.br/bitstream/REPOSIP/260981/1/Costa_JoseAlfredoFerreira_D.pdf"
     },
     {
         "docId": 6,
-        "titulo": " teste  sdff",
-        "autor": "teste",
-        "totalTermosSignificativos": 1,
-        "link": "teste.com"
+        "titulo": "Usando redes neurais artificiais e regressão logística na predição da Hepatite A",
+        "autor": "Alcione Miranda dos Santos",
+        "totalTermosSignificativos": 40,
+        "link": "https://www.scielosp.org/article/rbepid/2005.v8n2/117-126/pt/"
     },
     {
         "docId": 7,
-        "titulo": "teste",
-        "autor": "teste",
-        "totalTermosSignificativos": 4,
-        "link": "teste.com"
+        "titulo": "APLICAÇÃO DE REDES NEURAIS ARTIFICIAIS PARA ESTIMAÇÃO DA ALTURADE POVOAMENTOS EQUIÂNEOS DE EUCALIPTO",
+        "autor": "Mayra Luiza Marques da Silva Binoti",
+        "totalTermosSignificativos": 95,
+        "link": "http://www.redalyc.org/html/488/48828747007/"
+    },
+    {
+        "docId": 8,
+        "titulo": "Cooperação entre redes neurais artificiais e técnicas 'clássicas' para previsão de demanda de uma série de vendas de cerveja na Austrália ",
+        "autor": "Guilherme Marques Calôba",
+        "totalTermosSignificativos": 53,
+        "link": "http://www.scielo.br/scielo.php?pid=S0101-74382002000300004&script=sci_arttext&tlng=es"
+    },
+    {
+        "docId": 9,
+        "titulo": "DESVENDANDO O USO DE REDES NEURAIS EM PROBLEMAS DE ADMINISTRAÇÃO DE EMPRESAS",
+        "autor": "Fernando C. de Almeida",
+        "totalTermosSignificativos": 14,
+        "link": "http://www.scielo.br/pdf/rae/v35n1/a07v35n1.pdf"
+    },
+    {
+        "docId": 10,
+        "titulo": "CONFIGURAÇÃO DE REDES NEURAIS ARTIFICIAIS PARA ESTIMAÇÃO DO VOLUME DE ÁRVORES",
+        "autor": "Daniel Henrique Breda Binoti",
+        "totalTermosSignificativos": 73,
+        "link": "https://periodicos.ufpel.edu.br/ojs2/index.php/cienciadamadeira/article/view/4067/3211"
+    },
+    {
+        "docId": 11,
+        "titulo": "Inteligência Artificial em Jogos Eletrônicos",
+        "autor": "André Kishimoto",
+        "totalTermosSignificativos": 29,
+        "link": "http://www.karenreis.com.br/pdf/andre_kishimoto.pdf"
+    },
+    {
+        "docId": 12,
+        "titulo": "Novas Fronteiras na Inteligência Artificial e na Robótica",
+        "autor": "Ricardo Ribeiro Gudwin",
+        "totalTermosSignificativos": 38,
+        "link": "ftp://calhau.dca.fee.unicamp.br/pub/docs/gudwin/publications/Dincom05_Gudwin.pdf"
     }
 ]

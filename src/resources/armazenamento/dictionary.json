@@ -5,11 +5,13 @@
     },
     {
         "termo": "inteligência",
-        "quantidade": 4
+        "quantidade": 9,
+        "docs": 1
     },
     {
         "termo": "artificial",
-        "quantidade": 4
+        "quantidade": 9,
+        "docs": 1
     },
     {
         "termo": "simulação",
@@ -17,7 +19,8 @@
     },
     {
         "termo": "aplicação",
-        "quantidade": 2
+        "quantidade": 5,
+        "docs": 4
     },
     {
         "termo": "pecuária",
@@ -41,7 +44,8 @@
     },
     {
         "termo": "existem",
-        "quantidade": 3
+        "quantidade": 4,
+        "docs": 2
     },
     {
         "termo": "arcabouços",
@@ -86,7 +90,8 @@
     },
     {
         "termo": "técnicas",
-        "quantidade": 4
+        "quantidade": 7,
+        "docs": 4
     },
     {
         "termo": "auxiliar",
@@ -102,7 +107,8 @@
     },
     {
         "termo": "sistemas",
-        "quantidade": 4
+        "quantidade": 6,
+        "docs": 1
     },
     {
         "termo": "conteúdo",
@@ -113,35 +119,2258 @@
         "quantidade": 3
     },
     {
-        "termo": "teste",
-        "quantidade": 1
+        "termo": "artigo",
+        "quantidade": 1,
+        "docs": 1
     },
     {
-        "termo": "arquivo",
-        "quantidade": 1
+        "termo": "científico",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "possui",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "objetivo",
+        "quantidade": 3,
+        "docs": 3
+    },
+    {
+        "termo": "apresentar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "visão",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "existam",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "diversas",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "contradições",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "divergências",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "assunto",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "pesquisa",
+        "quantidade": 5,
+        "docs": 4
+    },
+    {
+        "termo": "busca",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "identificar",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "junção",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "diferentes",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "teorias",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "práticas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "elaboração",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "ocorreu",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "intermédio",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "levantamento",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "teórico",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "livros",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "artigos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "científicos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "materiais",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "importância",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "compreensível",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "entendimento",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "sendo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "observar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "abrangência",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "tema",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "visões",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "muitas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "delas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "complementares",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "porém",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "abordagens",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "diferenciadas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "servirão",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "base",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "realização",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "projetos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "aprofundamento",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "pesquisas",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "oportunidades",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "futuras",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "descreve",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "implementação",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "conjunto",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "classes",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "framework",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "destinado",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "facilitar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "desenvolvimento",
+        "quantidade": 3,
+        "docs": 2
+    },
+    {
+        "termo": "aplicações",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "multiplataforma",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "utilizam",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "algoritmos",
+        "quantidade": 3,
+        "docs": 3
+    },
+    {
+        "termo": "redes",
+        "quantidade": 7,
+        "docs": 7
+    },
+    {
+        "termo": "neurais",
+        "quantidade": 7,
+        "docs": 7
+    },
+    {
+        "termo": "artificiais",
+        "quantidade": 6,
+        "docs": 6
+    },
+    {
+        "termo": "destacar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "distribuição",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "softwares",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "livres",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "junto",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "comunidade",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "científica",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "esperamos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "contribuir",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "criação",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "ferramenta",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "aberta",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "utilidade",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "ensino",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "constituem",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "campo",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "ciência",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "computação",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "ligado",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "buscando",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "implementar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "modelos",
+        "quantidade": 3,
+        "docs": 3
+    },
+    {
+        "termo": "matemáticos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "assemelhem",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "estruturas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "biológicas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "sentido",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "apresentam",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "capacidade",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "adaptar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "parâmetros",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "resultado",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "interação",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "externo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "melhorando",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "gradativamente",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "desempenho",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "solução",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "determinado",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "problema",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "utilização",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "computacionais",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "recuperação",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "informação",
+        "quantidade": 4,
+        "docs": 3
+    },
+    {
+        "termo": "permite",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "atribuir",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "caráter",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "dinâmico",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "tais",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "dado",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "representações",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "documentos",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "reavaliadas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "alteradas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "acordo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "especificação",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "relevância",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "atribuída",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "usuários",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "recuperados",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "presente",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "apresenta",
+        "quantidade": 3,
+        "docs": 3
+    },
+    {
+        "termo": "principais",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "iniciativas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "aplicarem",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "conceitos",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "avalia",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "aplicabilidade",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "bases",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "documentais",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "caso",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "web",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "tese",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "extensões",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "modelo",
+        "quantidade": 4,
+        "docs": 4
+    },
+    {
+        "termo": "básico",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "rede",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "neural",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "auto-organizável",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "kohonen",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "som",
+        "quantidade": 4,
+        "docs": 1
+    },
+    {
+        "termo": "viabilizando",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "uso",
+        "quantidade": 4,
+        "docs": 4
+    },
+    {
+        "termo": "análise",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "agrupamentos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "define",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "via",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "treinamento",
+        "quantidade": 3,
+        "docs": 2
+    },
+    {
+        "termo": "supervisionado",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "mapeamento",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "espaço",
+        "quantidade": 3,
+        "docs": 1
+    },
+    {
+        "termo": "p-dimensional",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "contínuo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "discreto",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "vetores",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "referência",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "neurônios",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "geralmente",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "dispostos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "matriz",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "neurônio",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "mesma",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "dimensão",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "entrada",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "p",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "principal",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "reduzir",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "imensionalidade",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "mesmo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "tempo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "tenta-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "preservar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "topologia",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "algoritmo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "sl-som",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "self-labeling",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "desenvolvido",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "particionar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "rotular",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "automaticamente",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "treinado",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "baseando-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "gradiente",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "componentes",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "cuja",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "apresentada",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "umatrix",
+        "quantidade": 1,
+        "docs": 1
     },
     {
         "termo": "",
-        "quantidade": 7,
-        "docs": 3
+        "quantidade": 1,
+        "docs": 1
     },
     {
-        "termo": "rerererer",
-        "quantidade": 5
+        "termo": "88",
+        "quantidade": 1,
+        "docs": 1
     },
     {
-        "termo": "tste",
+        "termo": "desenvolve",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "predição",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "soroprevalência",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "hepatite",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "considerados",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "regressão",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "logística",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "medido",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "taxa",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "classificação",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "incorreta",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "amostra",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "município",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "duque",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "caxias",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "rio",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "janeiro",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "elevada",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "prevalência",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "doença",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "resultados",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "mostram",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "aplicado",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "relevante",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "extraída",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "alcançando",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "eficiência",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "acima",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "130",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "145",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "215",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "3000",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "objetivos",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "aumentar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "precisão",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "estimativas",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "altura",
+        "quantidade": 8,
+        "docs": 2
+    },
+    {
+        "termo": "árvores",
         "quantidade": 5,
-        "docs": 5
+        "docs": 2
     },
     {
-        "termo": "sdf",
+        "termo": "ediminuir",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "necessidade",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "aferição",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "levando",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "redução",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "custos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "inventário",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "florestalatravés",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "construção",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "validação",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "estimação",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "povoamentos",
+        "quantidade": 3,
+        "docs": 2
+    },
+    {
+        "termo": "eucaliptocom",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "dados",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "utilizados",
         "quantidade": 3,
         "docs": 3
     },
     {
-        "termo": "sdff",
+        "termo": "consistiram",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "clones",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "compreendendocerca",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "parcelas",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "permanentes",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "média",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "m²",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "mensuradas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "ocasiõesidades",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "variáveis",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "utilizadas",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "estimar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "total",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "dividiram-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "quantitativas",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "idademeses",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "diâmetro",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "casca",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "m",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "superfície",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "solo",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "dap",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "dominante",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "médiada",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "parcela;",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "qualitativa",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "tipo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "respectivas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "metodologiaproposta",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "consideradas",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "situações",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "introdução",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "material",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "genético",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "nãoexistem",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "informações",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "hipsométrica",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "deste;",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "b",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "conhece",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "tendência",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "crescimentoem",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "implantados",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "obtida",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "existência",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "medições",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "ifc",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "metodologiastestadas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "obtiveram-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "valores",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "coeficiente",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "correlação",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "superiores",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "099",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "metodologias",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "mostraram-seeficientes",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "alcançar",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "propostos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "garantindo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "alta",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "obtidas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "dasredes",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "avaliar",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "complementação",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "previsão",
         "quantidade": 3,
-        "docs": 3
+        "docs": 1
+    },
+    {
+        "termo": "vendas",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "analisada",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "demanda",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "industrial",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "setor",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "cerveja",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "austrália",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "atuam",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "isolada",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "seja",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "tratando",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "problemas",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "enfoques",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "excluem",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "sugestão",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "utilizar",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "métodos",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "cooperativa",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "melhores",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "obtidos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "individualmente",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "inicia-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "considerações",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "previsões",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "séries",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "temporais",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "caracterização",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "seguir",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "estudo",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "série",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "histórica",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "encerra-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "conclusão",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "recomendações",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "lista",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "referências",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "bibliográficas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "potencial",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "funcionamento",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "administração",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "exemplos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "ilustrações",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "acessíveis",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "leitor",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "não-familiarizado",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "informática",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "2307",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "objetivou-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "configurações",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "rna",
+        "quantidade": 3,
+        "docs": 1
+    },
+    {
+        "termo": "volume",
+        "quantidade": 4,
+        "docs": 1
+    },
+    {
+        "termo": "método",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "comparativo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "realizou-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "quantificação",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "volumétrica",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "maneira",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "tradicional",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "utilizando",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "schumacher",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "hall",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "provenientes",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "cubagens",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "eucalipto",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "eucalyptus",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "grandis",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "x",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "urophylla",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "numéricas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "idade",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "cm",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "ht",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "árvore",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "v",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "m³",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "enquanto",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "categóricas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "qualitativas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "projeto",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "espaçamento",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "clone",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "utilizou-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "neuroforest",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "feita",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "variando",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "camada",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "oculta",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "funções",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "ativação",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "simples",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "jogos",
+        "quantidade": 4,
+        "docs": 1
+    },
+    {
+        "termo": "eletrônicos",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "computadores",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "videogames",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "início",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "indústria",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "dias",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "atuais",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "incluindo",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "história",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "evolução",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "estado",
+        "quantidade": 2,
+        "docs": 2
+    },
+    {
+        "termo": "arte",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "aplicada",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "eletrônicos;",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "quais",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "resolução",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "encontradas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "benefícios",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "conseqüências",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "traz",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "apresenta-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "apanhado",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "fronteiras",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "criadas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "confluência",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "áreas",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "robótica",
+        "quantidade": 3,
+        "docs": 1
+    },
+    {
+        "termo": "dentre",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "tópicos",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "analisamos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "agentes",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "robóticos",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "inteligentes",
+        "quantidade": 2,
+        "docs": 1
+    },
+    {
+        "termo": "situada",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "incorporada",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "robôs",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "humanóides",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "emoções",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "evolutiva",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "semiótica",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "cognição",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "mentes",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "consciência",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "abordados",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "considerando-se",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "atual",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "desafios",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "colocam",
+        "quantidade": 1,
+        "docs": 1
+    },
+    {
+        "termo": "expansão",
+        "quantidade": 1,
+        "docs": 1
     }
 ]

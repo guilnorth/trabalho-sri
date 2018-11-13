@@ -4,6 +4,7 @@ const router = express.Router();
 
 router.post('/create', artigoController.create);
 router.post('/search', artigoController.search);
+router.get('/suggest', artigoController.suggestSearch);
 
 
 module.exports = app => app.use('/artigo', router);
