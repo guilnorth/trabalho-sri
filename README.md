@@ -5,10 +5,10 @@
 ________
 
 ## Demonstração
-**Disponível via GitHub Pages em:** 
+**Disponível via HerokuApp em:** 
 
-(em breve)
-- https://guilnorth.github.io/
+
+- https://trabalho-sri.herokuapp.com/
  
 ## Instalação e execução
 
