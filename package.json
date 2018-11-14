@@ -1,13 +1,18 @@
 {
-  "name": "serie-node",
+  "name": "trabalho-sri-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cd public/ && npm install && ng build --prod && cd .. && npm install && node src/app.js"
+    "start": "npm install && node src/app.js",
+    "heroku-postbuild": "cd public/ && npm install"
   },
-  "engines": { "yarn": "1.6.0" },
+  "engines": { 
+	"yarn": "1.6.0",
+	"node": "7.8.0",
+	"npm": "4.6.1" 
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

@@ -10,7 +10,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "pre-commit": "ng lint",
-    "deploy": "ng build -prod -sm -ec -bh /reponame/ && gh-pages -d dist"
+    "deploy": "ng build -prod -sm -ec -bh /reponame/ && gh-pages -d dist",
+    "postinstall": "ng build --aot -prod"
   },
   "dependencies": {
     "@agm/core": "~1.0.0-beta.2",
@@ -36,12 +37,14 @@
     "screenfull": "3.3.x",
     "smoothscroll-polyfill": "0.3.x",
     "web-animations-js": "2.3.x",
-    "zone.js": "0.8.x"
-  },
-  "devDependencies": {
+    "zone.js": "0.8.x",
     "@angular-devkit/build-optimizer": "^0.6.1",
     "@angular/cli": "^1.7.3",
     "@angular/compiler-cli": "5.2.0 - 5.2.6",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.3",
     "@types/jasmine": "2.5.38",
     "@types/node": "~6.0.85",
     "codelyzer": "~2.0.0",
@@ -57,7 +60,6 @@
     "protractor": "~5.1.0",
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
-    "typescript": "^2.6.2",
     "webpack": "^3.1.0",
     "webpack-sources": "1.1.0"
   }
